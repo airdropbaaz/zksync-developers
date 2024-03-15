@@ -29,7 +29,7 @@ body:
       label: zksolc/zkvyper version?
       description: The zksolc/zkvyper version from your config file
     validations:
-      required: true
+      required: false
   - type: textarea
     id: issue
     attributes:
